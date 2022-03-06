@@ -1,0 +1,30 @@
+{
+  "name": "mean-ecomerce",
+  "version": "1.0.0",
+  "description": "mean stack ecommerce with angular 2",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MounirBkr1/mean-crud1.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGULAR",
+    "2",
+    "APPLICATION"
+  ],
+  "author": "MOUNIR EL BAKKARI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MounirBkr1/mean-crud1/issues"
+  },
+  "homepage": "https://github.com/MounirBkr1/mean-crud1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
